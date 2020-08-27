@@ -1,0 +1,8 @@
+{
+  "name": "ToDoListReactJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MatheusDama/ToDoListReactJS.git",
+  "author": "mdama <mcafeesociety@gmail.com>",
+  "license": "MIT"
+}
